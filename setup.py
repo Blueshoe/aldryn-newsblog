@@ -18,7 +18,7 @@ REQUIREMENTS = [
     'django-filer>=0.9.9',
     'django-parler>=1.8.1',
     'django-sortedm2m>=1.2.2,!=1.3.0,!=1.3.1',
-    'django-taggit',
+    'django-taggit<=0.22.2',
     'lxml',
     'pytz',
     'six',
